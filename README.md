@@ -2,7 +2,7 @@
 
 ### 👨‍💻 I’m currently working on
 
-[![repo badge](https://github-readme-stats.vercel.app/api/pin/?username=JakubKrc&repo=crud-for-testing&theme=algolia)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+[![repo badge](https://github-readme-stats.vercel.app/api/pin/?username=JakubKrc&repo=crud-for-testing&theme=algolia)](https://github.com/JakubKrc/crud-for-testing)
 
 
 </br>
