@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, I'm Jakub
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JakubKrc&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubKrc&layout=compact&theme=dark" />
+</div>
 
 <!--
 **JakubKrc/JakubKrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
