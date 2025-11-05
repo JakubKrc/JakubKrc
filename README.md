@@ -1,5 +1,10 @@
-## Hello, I'm Jakub
+<h2 align="center">Hello, I'm Jakub</h3>
 
+### 👨‍💻 I’m currently working on
+
+[![Repo Badge](https://github-readme-stats.vercel.app/api/pin/?username=JakubKrc&repo=crud-for-testing&theme=dark)](https://github.com/JakubKrc/crud-for-testing)
+
+</br>
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JakubKrc&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubKrc&layout=compact&theme=dark" />
