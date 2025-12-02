@@ -1,7 +1,7 @@
 <h2 align="center">Hello, I'm Jakub</h3>
 
-### I’m currently working on [Basic Crud App](https://github.com/JakubKrc/crud-for-testing)
-### You can contact me through [personal web page](https://jkjdev.eu).
+### 📦 I’m currently working on [Basic Crud App](https://github.com/JakubKrc/crud-for-testing).
+### 🌐 You can contact me through [personal web page](https://jkjdev.eu).
 
 <!--[![repo badge](https://github-readme-stats.vercel.app/api/pin/?username=JakubKrc&repo=crud-for-testing&theme=algolia)](https://github.com/JakubKrc/crud-for-testing)
 
